@@ -1,0 +1,22 @@
+/** Índice da página de componentes (id da âncora, título). */
+export const componentIndex = [
+  ["button", "Button"],
+  ["badge", "Badge"],
+  ["input", "Input"],
+  ["selection", "Checkbox · Radio · Switch"],
+  ["select", "Select"],
+  ["card", "Card"],
+  ["tabs", "Tabs"],
+  ["dialog", "Dialog"],
+  ["dropdown", "Dropdown Menu"],
+  ["tooltip", "Tooltip"],
+  ["popover", "Popover"],
+  ["command", "Command"],
+  ["table", "Table"],
+  ["alert", "Alert"],
+  ["toast", "Toast"],
+  ["avatar", "Avatar"],
+  ["kbd", "Kbd"],
+  ["loading", "Skeleton · Spinner"],
+  ["separator", "Separator"],
+] as const;
